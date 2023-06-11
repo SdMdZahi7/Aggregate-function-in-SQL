@@ -46,12 +46,12 @@ SELECT SUM(SALARY) AS sum_of_total_salary FROM Worker;
 SELECT COUNT(*) AS count_of_total_workers FROM Worker;
 SELECT AVG(SALARY) AS average_salary FROM Worker;
 ~~~
-OUTPUT:
-TABLE FOR WORKERS:
+## OUTPUT:
+### TABLE FOR WORKERS:
 ![image](https://github.com/SdMdZahi7/Aggregate-function-in-SQL/assets/94187572/f7bf366b-bd51-4eab-b18e-a6ba0b797822)
 
-SUM(),COUNT(),AVG():
+### SUM(),COUNT(),AVG():
 ![image](https://github.com/SdMdZahi7/Aggregate-function-in-SQL/assets/94187572/563d04e5-9d06-461a-be77-ecbfd88636e3)
 
-RESULT:
+## RESULT:
 Thus we have successfully obtained the required result using the above-given code.
