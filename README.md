@@ -1,6 +1,6 @@
 # Aggregate-function-in-SQL
 ## AIM:
-To create asql program in aggregate function in SUM(),COUNT(),AVG() OPERATIONS.
+To create a sql program in aggregate function in SUM(),COUNT(),AVG() OPERATIONS.
 ## ALGORITHM:
 Initialize the accumulator variable(s) based on the type of aggregate functioN
 Retrieve the data from the table or source based on the query's filtering conditions, if any.
